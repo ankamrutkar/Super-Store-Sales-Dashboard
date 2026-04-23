@@ -29,8 +29,7 @@ This project presents an interactive **Sales Dashboard** built using Power BI to
 - Available soon
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](<img width="979" height="546" alt="Screenshot 2026-04-23 at 9 25 28 AM" src="https://github.com/user-attachments/assets/774c32d9-a8be-486d-88b5-71ab408ba2b0" />
-)
+![Dashboard Screenshot](<img width="979" height="546" alt="Screenshot 2026-04-23 at 9 25 28 AM" src="https://github.com/user-attachments/assets/774c32d9-a8be-486d-88b5-71ab408ba2b0" /> )
 
 ## 📈 Key Learnings
 - Built interactive dashboards for business intelligence reporting  
